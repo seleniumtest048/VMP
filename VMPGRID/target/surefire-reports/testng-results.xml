@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="185" started-at="2014-09-15T17:01:31Z" finished-at="2014-09-15T17:01:31Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="185" started-at="2014-09-15T17:01:31Z" finished-at="2014-09-15T17:01:31Z">
+      <class name="com.projectname.grid.scripts.RunThreadTest">
+        <test-method status="PASS" signature="runGrid()" name="runGrid" duration-ms="170" started-at="2014-09-15T17:01:31Z" finished-at="2014-09-15T17:01:31Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

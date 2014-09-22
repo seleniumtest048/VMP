@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="294" started-at="2014-09-22T06:22:55Z" finished-at="2014-09-22T06:22:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="294" started-at="2014-09-22T06:22:55Z" finished-at="2014-09-22T06:22:55Z">
+      <class name="com.grid.xmlfiles.XMLMerge">
+        <test-method status="PASS" signature="xmlMergeFiles()[pri:0, instance:com.grid.xmlfiles.XMLMerge@2c8d66b2]" name="xmlMergeFiles" duration-ms="274" started-at="2014-09-22T11:52:55Z" finished-at="2014-09-22T11:52:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xmlMergeFiles -->
+      </class> <!-- com.grid.xmlfiles.XMLMerge -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
