@@ -1,0 +1,321 @@
+2014-09-24 14:45:00 INFO  FunctionLibrary:34 - Selecting Test Scenario From Controller File
+2014-09-24 14:45:00 INFO  FunctionLibrary:41 - Navigate To Test Scenario Sheet
+2014-09-24 14:45:00 INFO  FunctionLibrary:34 - Selecting Test Scenario From Controller File
+2014-09-24 14:45:01 INFO  FunctionLibrary:41 - Navigate To Test Scenario Sheet
+2014-09-24 14:45:01 INFO  FunctionLibrary:48 - Loading Test Data Work Book
+2014-09-24 14:45:01 INFO  FunctionLibrary:103 - Passing Parameters Driver Script to ContolScript
+2014-09-24 14:45:01 INFO  FunctionLibrary:48 - Loading Test Data Work Book
+2014-09-24 14:45:01 INFO  FunctionLibrary:57 - Passing Parameters Driver Script to ContolScript
+2014-09-24 14:45:01 INFO  FunctionLibrary:243 - Navigating to ---https://marketplace.verio.com/
+2014-09-24 14:45:01 INFO  FunctionLibrary:243 - Navigating to ---https://marketplace.verio.com/
+2014-09-24 14:45:02 INFO  FunctionLibrary:304 - Loading Page
+2014-09-24 14:45:03 INFO  FunctionLibrary:304 - Loading Page
+2014-09-24 14:45:06 INFO  FunctionLibrary:34 - Selecting Test Scenario From Controller File
+2014-09-24 14:45:06 INFO  FunctionLibrary:41 - Navigate To Test Scenario Sheet
+2014-09-24 14:45:06 INFO  FunctionLibrary:48 - Loading Test Data Work Book
+2014-09-24 14:45:06 INFO  FunctionLibrary:80 - Passing Parameters Driver Script to ContolScript
+2014-09-24 14:45:06 INFO  FunctionLibrary:243 - Navigating to ---https://marketplace.verio.com/
+2014-09-24 14:45:09 INFO  FunctionLibrary:304 - Loading Page
+2014-09-24 14:45:12 INFO  FunctionLibrary:299 - Verifying Page Title
+2014-09-24 14:45:13 INFO  FunctionLibrary:918 - Excepted Data--------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 14:45:13 INFO  FunctionLibrary:919 - Actual Data-------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 14:45:13 INFO  FunctionLibrary:159 - Getting the value form WebPage-----
+2014-09-24 14:45:13 INFO  FunctionLibrary:844 - Verio Marketplace - Technology Solutions for Your Business.
+2014-09-24 14:45:13 INFO  FunctionLibrary:845 - Verio Marketplace - Technology Solutions for Your Business.
+2014-09-24 14:45:13 INFO  FunctionLibrary:159 - Getting the value form WebPage-----
+2014-09-24 14:45:13 INFO  FunctionLibrary:299 - Verifying Page Title
+2014-09-24 14:45:13 INFO  FunctionLibrary:918 - Excepted Data--------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 14:45:13 INFO  FunctionLibrary:919 - Actual Data-------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 14:45:13 INFO  FunctionLibrary:159 - Getting the value form WebPage-----
+2014-09-24 14:45:13 INFO  FunctionLibrary:844 - Our Solutions
+2014-09-24 14:45:13 INFO  FunctionLibrary:845 - Our Solutions
+2014-09-24 14:45:13 INFO  FunctionLibrary:844 - Verio Marketplace - Technology Solutions for Your Business.
+2014-09-24 14:45:13 INFO  FunctionLibrary:845 - Verio Marketplace - Technology Solutions for Your Business.
+2014-09-24 14:45:13 INFO  FunctionLibrary:159 - Getting the value form WebPage-----
+2014-09-24 14:45:14 INFO  FunctionLibrary:844 - Our Solutions
+2014-09-24 14:45:14 INFO  FunctionLibrary:845 - Our Solutions
+2014-09-24 14:45:14 INFO  FunctionLibrary:72 - Test Scenario Result --Pass
+2014-09-24 14:45:14 INFO  FunctionLibrary:34 - Selecting Test Scenario From Controller File
+2014-09-24 14:45:14 INFO  FunctionLibrary:41 - Navigate To Test Scenario Sheet
+2014-09-24 14:45:14 INFO  FunctionLibrary:48 - Loading Test Data Work Book
+2014-09-24 14:45:14 INFO  FunctionLibrary:57 - Passing Parameters Driver Script to ContolScript
+2014-09-24 14:45:14 INFO  FunctionLibrary:243 - Navigating to ---https://marketplace.verio.com/
+2014-09-24 14:45:14 INFO  FunctionLibrary:118 - Test Scenario Result --Pass
+2014-09-24 14:45:14 INFO  FunctionLibrary:34 - Selecting Test Scenario From Controller File
+2014-09-24 14:45:14 INFO  FunctionLibrary:41 - Navigate To Test Scenario Sheet
+2014-09-24 14:45:14 INFO  FunctionLibrary:48 - Loading Test Data Work Book
+2014-09-24 14:45:14 INFO  FunctionLibrary:103 - Passing Parameters Driver Script to ContolScript
+2014-09-24 14:45:14 INFO  FunctionLibrary:243 - Navigating to ---https://marketplace.verio.com/
+2014-09-24 14:45:17 INFO  FunctionLibrary:304 - Loading Page
+2014-09-24 14:45:17 INFO  FunctionLibrary:304 - Loading Page
+2014-09-24 14:45:19 INFO  FunctionLibrary:299 - Verifying Page Title
+2014-09-24 14:45:19 INFO  FunctionLibrary:918 - Excepted Data--------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 14:45:19 INFO  FunctionLibrary:919 - Actual Data-------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 14:45:19 INFO  FunctionLibrary:159 - Getting the value form WebPage-----
+2014-09-24 14:45:19 INFO  FunctionLibrary:844 - Verio Marketplace - Technology Solutions for Your Business.
+2014-09-24 14:45:19 INFO  FunctionLibrary:845 - Verio Marketplace - Technology Solutions for Your Business.
+2014-09-24 14:45:19 INFO  FunctionLibrary:159 - Getting the value form WebPage-----
+2014-09-24 14:45:19 INFO  FunctionLibrary:844 - Our Solutions
+2014-09-24 14:45:19 INFO  FunctionLibrary:845 - Our Solutions
+2014-09-24 14:45:19 INFO  FunctionLibrary:95 - Test Scenario Result --Pass
+2014-09-24 14:45:19 INFO  FunctionLibrary:34 - Selecting Test Scenario From Controller File
+2014-09-24 14:45:19 INFO  FunctionLibrary:41 - Navigate To Test Scenario Sheet
+2014-09-24 14:45:19 INFO  FunctionLibrary:48 - Loading Test Data Work Book
+2014-09-24 14:45:19 INFO  FunctionLibrary:80 - Passing Parameters Driver Script to ContolScript
+2014-09-24 14:45:19 INFO  FunctionLibrary:243 - Navigating to ---https://marketplace.verio.com/
+2014-09-24 14:45:22 INFO  FunctionLibrary:304 - Loading Page
+2014-09-24 14:45:27 INFO  FunctionLibrary:299 - Verifying Page Title
+2014-09-24 14:45:27 INFO  FunctionLibrary:918 - Excepted Data--------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 14:45:27 INFO  FunctionLibrary:919 - Actual Data-------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 14:45:27 INFO  FunctionLibrary:94 - Clicking on Button Sign Up
+2014-09-24 14:45:27 INFO  FunctionLibrary:299 - Verifying Page Title
+2014-09-24 14:45:27 INFO  FunctionLibrary:918 - Excepted Data--------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 14:45:27 INFO  FunctionLibrary:919 - Actual Data-------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 14:45:27 INFO  FunctionLibrary:94 - Clicking on Button Sign Up
+2014-09-24 14:45:32 INFO  FunctionLibrary:299 - Verifying Page Title
+2014-09-24 14:45:33 INFO  FunctionLibrary:918 - Excepted Data--------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 14:45:33 INFO  FunctionLibrary:919 - Actual Data-------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 14:45:33 INFO  FunctionLibrary:94 - Clicking on Button Sign Up
+2014-09-24 14:45:37 INFO  FunctionLibrary:304 - Loading Page
+2014-09-24 14:45:42 INFO  FunctionLibrary:304 - Loading Page
+2014-09-24 14:45:45 INFO  FunctionLibrary:304 - Loading Page
+2014-09-24 14:45:47 INFO  FunctionLibrary:299 - Verifying Page Title
+2014-09-24 14:45:47 INFO  FunctionLibrary:918 - Excepted Data--------------->>MarketPlace :: New Users Registration
+2014-09-24 14:45:47 INFO  FunctionLibrary:919 - Actual Data-------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 14:45:47 INFO  FunctionLibrary:923 - Error in text - html/head/title
+2014-09-24 14:45:47 INFO  FunctionLibrary:924 - Actual - MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 14:45:47 INFO  FunctionLibrary:925 - Expected -MarketPlace :: New Users Registration
+2014-09-24 14:45:47 FATAL FunctionLibrary:926 - test verify
+2014-09-24 14:45:47 ERROR FunctionLibrary:927 - error
+2014-09-24 14:45:47 INFO  FunctionLibrary:294 - Verifying Text
+2014-09-24 14:45:52 INFO  FunctionLibrary:299 - Verifying Page Title
+2014-09-24 14:45:52 INFO  FunctionLibrary:918 - Excepted Data--------------->>MarketPlace :: New Users Registration
+2014-09-24 14:45:52 INFO  FunctionLibrary:919 - Actual Data-------------->>MarketPlace :: New Users Registration
+2014-09-24 14:45:52 INFO  FunctionLibrary:294 - Verifying Text
+2014-09-24 14:45:55 INFO  FunctionLibrary:299 - Verifying Page Title
+2014-09-24 14:45:55 INFO  FunctionLibrary:918 - Excepted Data--------------->>MarketPlace :: New Users Registration
+2014-09-24 14:45:55 INFO  FunctionLibrary:919 - Actual Data-------------->>MarketPlace :: New Users Registration
+2014-09-24 14:45:55 INFO  FunctionLibrary:294 - Verifying Text
+2014-09-24 14:45:55 INFO  FunctionLibrary:254 - Excepted Data -------------->>Register for a new account
+2014-09-24 14:45:55 INFO  FunctionLibrary:255 - Actual Data --------------->>Register for a new account
+2014-09-24 14:45:55 INFO  FunctionLibrary:197 - Entering Data into first_name
+2014-09-24 14:45:59 INFO  FunctionLibrary:254 - Excepted Data -------------->>Register for a new account
+2014-09-24 14:45:59 INFO  FunctionLibrary:255 - Actual Data --------------->>Register for a new account
+2014-09-24 14:45:59 INFO  FunctionLibrary:197 - Entering Data into first_name
+2014-09-24 14:46:00 INFO  FunctionLibrary:254 - Excepted Data -------------->>Register for a new account
+2014-09-24 14:46:00 INFO  FunctionLibrary:255 - Actual Data --------------->>null
+2014-09-24 14:46:00 INFO  FunctionLibrary:387 - 
+java.lang.NullPointerException
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:256)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:295)
+	at com.projectname.scripts.DriverScript.controlscript(DriverScript.java:105)
+	at com.projectname.scripts.DriverScript.driverScript(DriverScript.java:24)
+	at com.projectname.grid.scripts.BrowsersThread.windowsIE(BrowsersThread.java:119)
+	at com.projectname.grid.scripts.BrowsersThread.run(BrowsersThread.java:33)
+2014-09-24 14:46:01 INFO  FunctionLibrary:108 - Test Scenario Result --Fail
+2014-09-24 14:46:01 INFO  FunctionLibrary:34 - Selecting Test Scenario From Controller File
+2014-09-24 14:46:01 INFO  FunctionLibrary:41 - Navigate To Test Scenario Sheet
+2014-09-24 14:46:01 INFO  FunctionLibrary:48 - Loading Test Data Work Book
+2014-09-24 14:46:01 INFO  FunctionLibrary:103 - Passing Parameters Driver Script to ContolScript
+2014-09-24 14:46:01 INFO  FunctionLibrary:243 - Navigating to ---https://marketplace.verio.com/
+2014-09-24 14:46:03 INFO  FunctionLibrary:304 - Loading Page
+2014-09-24 14:46:05 INFO  FunctionLibrary:197 - Entering Data into last_name
+2014-09-24 14:46:08 INFO  FunctionLibrary:197 - Entering Data into last_name
+2014-09-24 14:46:13 INFO  FunctionLibrary:299 - Verifying Page Title
+2014-09-24 14:46:13 INFO  FunctionLibrary:918 - Excepted Data--------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 14:46:13 INFO  FunctionLibrary:919 - Actual Data-------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 14:46:13 INFO  FunctionLibrary:94 - Clicking on Button Log In
+2014-09-24 14:46:14 INFO  FunctionLibrary:197 - Entering Data into user_email
+2014-09-24 16:10:54 INFO  FunctionLibrary:34 - Selecting Test Scenario From Controller File
+2014-09-24 16:10:54 INFO  FunctionLibrary:41 - Navigate To Test Scenario Sheet
+2014-09-24 16:10:54 INFO  FunctionLibrary:48 - Loading Test Data Work Book
+2014-09-24 16:10:54 INFO  FunctionLibrary:103 - Passing Parameters Driver Script to ContolScript
+2014-09-24 16:10:54 INFO  FunctionLibrary:243 - Navigating to ---https://marketplace.verio.com/
+2014-09-24 16:10:58 INFO  FunctionLibrary:304 - Loading Page
+2014-09-24 16:11:01 INFO  FunctionLibrary:34 - Selecting Test Scenario From Controller File
+2014-09-24 16:11:01 INFO  FunctionLibrary:41 - Navigate To Test Scenario Sheet
+2014-09-24 16:11:01 INFO  FunctionLibrary:48 - Loading Test Data Work Book
+2014-09-24 16:11:01 INFO  FunctionLibrary:57 - Passing Parameters Driver Script to ContolScript
+2014-09-24 16:11:01 INFO  FunctionLibrary:243 - Navigating to ---https://marketplace.verio.com/
+2014-09-24 16:11:02 INFO  FunctionLibrary:304 - Loading Page
+2014-09-24 16:11:08 INFO  FunctionLibrary:299 - Verifying Page Title
+2014-09-24 16:11:08 INFO  FunctionLibrary:918 - Excepted Data--------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 16:11:08 INFO  FunctionLibrary:919 - Actual Data-------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 16:11:08 INFO  FunctionLibrary:159 - Getting the value form WebPage-----
+2014-09-24 16:11:08 INFO  FunctionLibrary:844 - Verio Marketplace - Technology Solutions for Your Business.
+2014-09-24 16:11:08 INFO  FunctionLibrary:845 - Verio Marketplace - Technology Solutions for Your Business.
+2014-09-24 16:11:08 INFO  FunctionLibrary:159 - Getting the value form WebPage-----
+2014-09-24 16:11:09 INFO  FunctionLibrary:844 - Our Solutions
+2014-09-24 16:11:09 INFO  FunctionLibrary:845 - Our Solutions
+2014-09-24 16:11:10 INFO  FunctionLibrary:118 - Test Scenario Result --Pass
+2014-09-24 16:11:10 INFO  FunctionLibrary:34 - Selecting Test Scenario From Controller File
+2014-09-24 16:11:10 INFO  FunctionLibrary:41 - Navigate To Test Scenario Sheet
+2014-09-24 16:11:10 INFO  FunctionLibrary:48 - Loading Test Data Work Book
+2014-09-24 16:11:10 INFO  FunctionLibrary:103 - Passing Parameters Driver Script to ContolScript
+2014-09-24 16:11:10 INFO  FunctionLibrary:243 - Navigating to ---https://marketplace.verio.com/
+2014-09-24 16:11:12 INFO  FunctionLibrary:299 - Verifying Page Title
+2014-09-24 16:11:13 INFO  FunctionLibrary:918 - Excepted Data--------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 16:11:13 INFO  FunctionLibrary:919 - Actual Data-------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 16:11:13 INFO  FunctionLibrary:159 - Getting the value form WebPage-----
+2014-09-24 16:11:13 INFO  FunctionLibrary:844 - Verio Marketplace - Technology Solutions for Your Business.
+2014-09-24 16:11:13 INFO  FunctionLibrary:845 - Verio Marketplace - Technology Solutions for Your Business.
+2014-09-24 16:11:13 INFO  FunctionLibrary:159 - Getting the value form WebPage-----
+2014-09-24 16:11:13 INFO  FunctionLibrary:844 - Our Solutions
+2014-09-24 16:11:13 INFO  FunctionLibrary:845 - Our Solutions
+2014-09-24 16:11:13 INFO  FunctionLibrary:72 - Test Scenario Result --Pass
+2014-09-24 16:11:13 INFO  FunctionLibrary:34 - Selecting Test Scenario From Controller File
+2014-09-24 16:11:13 INFO  FunctionLibrary:41 - Navigate To Test Scenario Sheet
+2014-09-24 16:11:13 INFO  FunctionLibrary:48 - Loading Test Data Work Book
+2014-09-24 16:11:13 INFO  FunctionLibrary:57 - Passing Parameters Driver Script to ContolScript
+2014-09-24 16:11:13 INFO  FunctionLibrary:243 - Navigating to ---https://marketplace.verio.com/
+2014-09-24 16:11:18 INFO  FunctionLibrary:304 - Loading Page
+2014-09-24 16:11:18 INFO  FunctionLibrary:304 - Loading Page
+2014-09-24 16:11:28 INFO  FunctionLibrary:299 - Verifying Page Title
+2014-09-24 16:11:28 INFO  FunctionLibrary:299 - Verifying Page Title
+2014-09-24 16:11:30 INFO  RetryExec:93 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+2014-09-24 16:11:30 INFO  RetryExec:106 - Retrying request
+2014-09-24 16:11:30 INFO  RetryExec:93 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+2014-09-24 16:11:30 INFO  RetryExec:106 - Retrying request
+2014-09-24 16:11:30 INFO  RetryExec:93 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+2014-09-24 16:11:30 INFO  RetryExec:106 - Retrying request
+2014-09-24 16:11:31 INFO  RetryExec:93 - I/O exception (java.net.SocketException) caught when processing request: Permission denied: connect
+2014-09-24 16:11:31 INFO  RetryExec:106 - Retrying request
+2014-09-24 16:11:31 INFO  RetryExec:93 - I/O exception (java.net.SocketException) caught when processing request: Permission denied: connect
+2014-09-24 16:11:31 INFO  RetryExec:106 - Retrying request
+2014-09-24 16:11:32 INFO  RetryExec:93 - I/O exception (java.net.SocketException) caught when processing request: Permission denied: connect
+2014-09-24 16:11:32 INFO  RetryExec:106 - Retrying request
+2014-09-24 16:11:32 INFO  FunctionLibrary:387 - 
+org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.43.0', revision: 'accb3003b9fb8f7cae30f9669b4c594a065396a6', time: '2014-09-09 22:22:51'
+System info: host: 'ML-SanthoshR-PC', ip: '172.16.0.135', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:593)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:614)
+	at org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:313)
+	at com.projectname.base.FunctionLibrary.verifyPageTitle(FunctionLibrary.java:917)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:300)
+	at com.projectname.scripts.DriverScript.controlscript(DriverScript.java:105)
+	at com.projectname.scripts.DriverScript.driverScript(DriverScript.java:24)
+	at com.projectname.grid.scripts.BrowsersThread.windowsIE(BrowsersThread.java:119)
+	at com.projectname.grid.scripts.BrowsersThread.run(BrowsersThread.java:33)
+Caused by: java.net.SocketException: Permission denied: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:72)
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:118)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:314)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:357)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:218)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:194)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:85)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:72)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.openqa.selenium.remote.HttpCommandExecutor.fallBackExecute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:572)
+	... 8 more
+2014-09-24 16:11:33 INFO  RetryExec:93 - I/O exception (java.net.SocketException) caught when processing request: Permission denied: connect
+2014-09-24 16:11:33 INFO  RetryExec:106 - Retrying request
+2014-09-24 16:11:33 INFO  FunctionLibrary:387 - 
+org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.43.0', revision: 'accb3003b9fb8f7cae30f9669b4c594a065396a6', time: '2014-09-09 22:22:51'
+System info: host: 'ML-SanthoshR-PC', ip: '172.16.0.135', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:593)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:614)
+	at org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:313)
+	at com.projectname.base.FunctionLibrary.verifyPageTitle(FunctionLibrary.java:917)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:300)
+	at com.projectname.scripts.DriverScript.controlscript(DriverScript.java:59)
+	at com.projectname.scripts.DriverScript.driverScript(DriverScript.java:24)
+	at com.projectname.grid.scripts.BrowsersThread.windowsGC(BrowsersThread.java:98)
+	at com.projectname.grid.scripts.BrowsersThread.run(BrowsersThread.java:32)
+Caused by: java.net.SocketException: Permission denied: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:72)
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:118)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:314)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:357)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:218)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:194)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:85)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:72)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.openqa.selenium.remote.HttpCommandExecutor.fallBackExecute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:572)
+	... 8 more
+2014-09-24 16:38:27 INFO  FunctionLibrary:34 - Selecting Test Scenario From Controller File
+2014-09-24 16:38:27 INFO  FunctionLibrary:41 - Navigate To Test Scenario Sheet
+2014-09-24 16:38:27 INFO  FunctionLibrary:48 - Loading Test Data Work Book
+2014-09-24 16:38:27 INFO  FunctionLibrary:80 - Passing Parameters Driver Script to ContolScript
+2014-09-24 16:38:28 INFO  FunctionLibrary:243 - Navigating to ---https://marketplace.verio.com/
+2014-09-24 16:38:29 INFO  FunctionLibrary:304 - Loading Page
+2014-09-24 16:49:13 INFO  FunctionLibrary:34 - Selecting Test Scenario From Controller File
+2014-09-24 16:49:13 INFO  FunctionLibrary:41 - Navigate To Test Scenario Sheet
+2014-09-24 16:49:14 INFO  FunctionLibrary:48 - Loading Test Data Work Book
+2014-09-24 16:49:14 INFO  FunctionLibrary:80 - Passing Parameters Driver Script to ContolScript
+2014-09-24 16:49:14 INFO  FunctionLibrary:243 - Navigating to ---https://marketplace.verio.com/
+2014-09-24 17:15:14 INFO  FunctionLibrary:35 - Selecting Test Scenario From Controller File
+2014-09-24 17:15:14 INFO  FunctionLibrary:42 - Navigate To Test Scenario Sheet
+2014-09-24 17:15:14 INFO  FunctionLibrary:49 - Loading Test Data Work Book
+2014-09-24 17:15:14 INFO  FunctionLibrary:81 - Passing Parameters Driver Script to ContolScript
+2014-09-24 17:15:14 INFO  FunctionLibrary:243 - Navigating to ---https://marketplace.verio.com/
+2014-09-24 17:15:16 INFO  FunctionLibrary:304 - Loading Page
+2014-09-24 17:18:23 INFO  FunctionLibrary:35 - Selecting Test Scenario From Controller File
+2014-09-24 17:18:23 INFO  FunctionLibrary:42 - Navigate To Test Scenario Sheet
+2014-09-24 17:18:23 INFO  FunctionLibrary:49 - Loading Test Data Work Book
+2014-09-24 17:18:23 INFO  FunctionLibrary:81 - Passing Parameters Driver Script to ContolScript
+2014-09-24 17:18:23 INFO  FunctionLibrary:243 - Navigating to ---https://marketplace.verio.com/
+2014-09-24 17:18:25 INFO  FunctionLibrary:304 - Loading Page
+2014-09-24 17:18:35 INFO  FunctionLibrary:299 - Verifying Page Title
+2014-09-24 17:18:35 INFO  FunctionLibrary:918 - Excepted Data--------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 17:18:35 INFO  FunctionLibrary:919 - Actual Data-------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 17:18:35 INFO  FunctionLibrary:159 - Getting the value form WebPage-----
+2014-09-24 17:18:36 INFO  FunctionLibrary:844 - Verio Marketplace - Technology Solutions for Your Business.
+2014-09-24 17:18:36 INFO  FunctionLibrary:845 - Verio Marketplace - Technology Solutions for Your Business.
+2014-09-24 17:18:36 INFO  FunctionLibrary:159 - Getting the value form WebPage-----
+2014-09-24 17:18:36 INFO  FunctionLibrary:844 - Our Solutions
+2014-09-24 17:18:36 INFO  FunctionLibrary:845 - Our Solutions
+2014-09-24 17:18:36 INFO  FunctionLibrary:96 - Test Scenario Result --Pass
+2014-09-24 17:18:37 INFO  FunctionLibrary:35 - Selecting Test Scenario From Controller File
+2014-09-24 17:18:37 INFO  FunctionLibrary:35 - Selecting Test Scenario From Controller File
+2014-09-24 17:18:37 INFO  FunctionLibrary:35 - Selecting Test Scenario From Controller File
+2014-09-24 17:18:37 INFO  FunctionLibrary:35 - Selecting Test Scenario From Controller File
+2014-09-24 17:20:59 INFO  FunctionLibrary:35 - Selecting Test Scenario From Controller File
+2014-09-24 17:20:59 INFO  FunctionLibrary:42 - Navigate To Test Scenario Sheet
+2014-09-24 17:20:59 INFO  FunctionLibrary:49 - Loading Test Data Work Book
+2014-09-24 17:20:59 INFO  FunctionLibrary:81 - Passing Parameters Driver Script to ContolScript
+2014-09-24 17:20:59 INFO  FunctionLibrary:243 - Navigating to ---https://marketplace.verio.com/
+2014-09-24 17:21:00 INFO  FunctionLibrary:304 - Loading Page
+2014-09-24 17:21:10 INFO  FunctionLibrary:299 - Verifying Page Title
+2014-09-24 17:21:10 INFO  FunctionLibrary:918 - Excepted Data--------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 17:21:10 INFO  FunctionLibrary:919 - Actual Data-------------->>MarketPlace :: Welcome to MarketPlace Powered by Verio
+2014-09-24 17:21:10 INFO  FunctionLibrary:159 - Getting the value form WebPage-----
+2014-09-24 17:21:11 INFO  FunctionLibrary:844 - Verio Marketplace - Technology Solutions for Your Business.
+2014-09-24 17:21:11 INFO  FunctionLibrary:845 - Verio Marketplace - Technology Solutions for Your Business.
+2014-09-24 17:21:11 INFO  FunctionLibrary:159 - Getting the value form WebPage-----
+2014-09-24 17:21:11 INFO  FunctionLibrary:844 - Our Solutions
+2014-09-24 17:21:11 INFO  FunctionLibrary:845 - Our Solutions
+2014-09-24 17:21:11 INFO  FunctionLibrary:96 - Test Scenario Result --Pass
+2014-09-24 17:21:11 INFO  FunctionLibrary:35 - Selecting Test Scenario From Controller File
+2014-09-24 17:21:11 INFO  FunctionLibrary:35 - Selecting Test Scenario From Controller File
+2014-09-24 17:21:11 INFO  FunctionLibrary:35 - Selecting Test Scenario From Controller File
+2014-09-24 17:21:11 INFO  FunctionLibrary:35 - Selecting Test Scenario From Controller File

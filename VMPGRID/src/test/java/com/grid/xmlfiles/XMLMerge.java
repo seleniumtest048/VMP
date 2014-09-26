@@ -89,7 +89,7 @@ public class XMLMerge {
 		case "WinGC":
 			reportValues.winGCStatus = result;
 			break;
-		case "Winmf":
+		case "WinMf":
 			reportValues.winMFStatus = result;
 			break;
 		case "WinIE":

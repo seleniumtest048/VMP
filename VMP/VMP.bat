@@ -1,0 +1,1 @@
+start javaw -jar  vmp.jar
